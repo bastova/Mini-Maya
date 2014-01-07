@@ -1,0 +1,60 @@
+10
+
+dir
+3
+svn+ssh://bastova@eniac.seas.upenn.edu/home1/b/bastova/cis277-s2013g3/3DViewer/GeneratedFiles
+svn+ssh://bastova@eniac.seas.upenn.edu/home1/b/bastova/cis277-s2013g3
+
+
+
+2013-04-16T23:16:32.540791Z
+3
+ndis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+527d251a-a6e3-11e2-be4a-f3a7cd07e31d
+
+Release
+dir
+
+ui_my3dviewer.h
+file
+
+
+
+
+
+95614cd53b795eadfb6bf4317ffc7afb
+2013-04-16T23:16:32.540791Z
+3
+ndis
+has-props
+
+qrc_startercode.cpp
+file
+
+
+
+
+
+e38e466b76316f81372642a442a7f4c8
+2013-04-16T23:16:32.540791Z
+3
+ndis
+has-props
+
+Debug
+dir
+
